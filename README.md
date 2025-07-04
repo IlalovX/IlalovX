@@ -1,4 +1,8 @@
-<h2 align="left">Hello! My name is Xudayar, and I come from Karakalpakstan. Currently, I am studying at the Nukus Branch of Tashkent University of Information Technologies, where I am delving into web development. I am fascinated by the realm of programming and technology, and I aspire to become a proficient frontend developer.<br><br><br>My goal is to become an experienced frontend developer and contribute to the world of web technologies. I am constantly learning and exploring new technologies to stay updated with the latest trends in development.<br><br>I am eager to connect with the developer community, exchange experiences, and learn together. Let's collaborate on exciting projects and transform new ideas into reality!</h2>
+<h2 align="left">Hello! My name is Xudayar, and I come from Karakalpakstan. I recently graduated from the Nukus Branch of the Tashkent University of Information Technologies, where I studied Software Engineering with a focus on web development.
+
+I'm passionate about programming and technology, and I'm currently focused on improving my skills and deepening my knowledge in frontend development. I'm constantly learning new tools, frameworks, and best practices to stay up-to-date with the latest trends in web development.
+
+I'm also eager to connect with the developer community, share experiences, and grow together. Let’s collaborate on exciting projects and bring innovative ideas to life!</h2>
 
 ###
 
